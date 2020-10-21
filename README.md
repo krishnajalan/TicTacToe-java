@@ -1,5 +1,6 @@
 # TicTacToe-java
 Tic Tac Toe in Java
+(JDK must me installed)
 Game have two mode 
 - single player (minimax algorithm)
 - multi player
